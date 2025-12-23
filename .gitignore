@@ -1,3 +1,5 @@
-venv/
-.conda/
-*.csv
+venv/ 
+.conda/ 
+*.csv 
+__pycache__/ 
+.ipynb_checkpoints/ 
